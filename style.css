@@ -36,5 +36,26 @@ body{
 }
 
 .width-100{
-    width: 100%;
+    width: 100px;
+}
+
+.trophy{
+    display: flex;
+    justify-content: end;
+}
+
+#end-screen{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.final-headline{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.button-row{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
 }
